@@ -1,0 +1,103 @@
+{
+  "replacements":
+  [
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R640NZDATGY\"] .ins-sehk-product-name",
+      "withTextLabel": "",
+      "replaceWithHtml": "Galaxy Buds4 Pro 星瑰金 (網上商店限定)",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R640NZKATGY\"] .ins-sehk-product-name",
+      "withTextLabel": "",
+      "replaceWithHtml": "Galaxy Buds4 Pro 星夜黑",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R640NZWATGY\"] .ins-sehk-product-name",
+      "withTextLabel": "",
+      "replaceWithHtml": "Galaxy Buds4 Pro 珍珠白",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R540NZKATGY\"] .ins-sehk-product-name",
+      "withTextLabel": "",
+      "replaceWithHtml": "Galaxy Buds4 星夜黑",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R540NZWATGY\"] .ins-sehk-product-name",
+      "withTextLabel": "",
+      "replaceWithHtml": "Galaxy Buds4 珍珠白",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R640NZDATGY\"] .ins-image-box .ins-image-area",
+      "withTextLabel": "",
+      "replaceWithHtml": "src=https://images.samsung.com/is/image/samsung/p6pim/hk/s2602/gallery/hk-galaxy-buds4-r640-579615-sm-r640nzdatgy-thumb-550999614",
+      "manipulationMethod": "addAttribute"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R640NZKATGY\"] .ins-image-box .ins-image-area",
+      "withTextLabel": "",
+      "replaceWithHtml": "src=https://images.samsung.com/is/image/samsung/p6pim/hk/s2602/gallery/hk-galaxy-buds4-r640-sm-r640nzkatgy-thumb-550999451",
+      "manipulationMethod": "addAttribute"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R640NZWATGY\"] .ins-image-box .ins-image-area",
+      "withTextLabel": "",
+      "replaceWithHtml": "src=https://images.samsung.com/is/image/samsung/p6pim/hk/s2602/gallery/hk-galaxy-buds4-r640-sm-r640nzwatgy-thumb-550999472",
+      "manipulationMethod": "addAttribute"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R540NZKATGY\"] .ins-image-box .ins-image-area",
+      "withTextLabel": "",
+      "replaceWithHtml": "src=https://images.samsung.com/is/image/samsung/p6pim/hk/s2602/gallery/hk-galaxy-buds4-r540-sm-r540nzkatgy-thumb-550999065",
+      "manipulationMethod": "addAttribute"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "li[data-product-id=\"SM-R540NZWATGY\"] .ins-image-box .ins-image-area",
+      "withTextLabel": "",
+      "replaceWithHtml": "src=https://images.samsung.com/is/image/samsung/p6pim/hk/s2602/gallery/hk-galaxy-buds4-r540-sm-r540nzwatgy-thumb-550999086",
+      "manipulationMethod": "addAttribute"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "cx-cart-item-v2:has(.cart-item[data-modelname^=\"SM-\"]):not(:has(.service-item__bundle)) .cart-item__services",
+      "withTextLabel": "",
+      "replaceWithHtml": "<div onclick=\"document.location.hash='ins-sehk-recommender';\" tabindex=\"0\" class=\"service-item service-item__bundle\" style=\"background-color:#F7f7F7 !important\"><div class=\"service-item__icon\"><cx-media format=\"TokoMain\" class=\"service-item__icons is-initialized\"><img loading=\"null\" alt=\"加購產品優惠\" title=\"加購產品優惠\" src=\"https://images.samsung.com/is/content/samsung/assets/hk/offer/bundle.svg\"></cx-media></div><div class=\"service-item__details\"><h3 class=\"service-item__name service-item__name--addon\">Galaxy 4月限定加購優惠</h3><div><div class=\"service-item__description\"><div>組合優惠低至<span style=\"color:#006ff2;\">65折</span></div></div></div></div><div class=\"service-item__actions\"><div class=\"service-item__actions\"><button class=\"action-button\" data-an-tr=\"shop-program-option\" data-an-la=\"add service:add-on\" data-di-id=\"di-id-fcf620ab-474ecee3\"><mat-icon role=\"img\" svgicon=\"icon-regular-action-add-dark\" class=\"mat-icon notranslate action-icon action-icon--add mat-icon-no-color\" aria-hidden=\"true\" data-mat-icon-type=\"svg\" data-mat-icon-name=\"icon-regular-action-add-dark\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fit=\"\" preserveAspectRatio=\"xMidYMid meet\" focusable=\"false\" data-di-res-id=\"ad575413-f56cea7f\" data-di-rand=\"1771640416820\"><path d=\"M2.721 2.554a7.585 7.585 0 0110.725 10.725A7.585 7.585 0 012.721 2.554zm10.135.59a6.75 6.75 0 10-9.546 9.545 6.75 6.75 0 109.546-9.547zm-4.523.44V7.5h3.917v.833H8.333v3.917H7.5V8.333H3.583V7.5H7.5V3.583h.833z\" fill=\"#006ff2\" fill-rule=\"evenodd\"></path></svg></mat-icon><span class=\"action-text\">加入</span><span class=\"sr-only\"> 加購產品優惠</span></button></div></div></div>",
+      "manipulationMethod": "append"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "cx-cart-item-v2:has(.cart-item[data-modelname^=\"NP\"]):not(:has(.service-item__bundle)) .cart-item__services",
+      "withTextLabel": "",
+      "replaceWithHtml": "<div onclick=\"document.location.hash='ins-sehk-recommender';\" tabindex=\"0\" class=\"service-item service-item__bundle\" style=\"background-color:#F7f7F7 !important\"><div class=\"service-item__icon\"><cx-media format=\"TokoMain\" class=\"service-item__icons is-initialized\"><img loading=\"null\" alt=\"加購產品優惠\" title=\"加購產品優惠\" src=\"https://images.samsung.com/is/content/samsung/assets/hk/offer/bundle.svg\"></cx-media></div><div class=\"service-item__details\"><h3 class=\"service-item__name service-item__name--addon\">Galaxy 4月限定加購優惠</h3><div><div class=\"service-item__description\"><div>組合優惠低至<span style=\"color:#006ff2;\">65折</span></div></div></div></div><div class=\"service-item__actions\"><div class=\"service-item__actions\"><button class=\"action-button\" data-an-tr=\"shop-program-option\" data-an-la=\"add service:add-on\" data-di-id=\"di-id-fcf620ab-474ecee3\"><mat-icon role=\"img\" svgicon=\"icon-regular-action-add-dark\" class=\"mat-icon notranslate action-icon action-icon--add mat-icon-no-color\" aria-hidden=\"true\" data-mat-icon-type=\"svg\" data-mat-icon-name=\"icon-regular-action-add-dark\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fit=\"\" preserveAspectRatio=\"xMidYMid meet\" focusable=\"false\" data-di-res-id=\"ad575413-f56cea7f\" data-di-rand=\"1771640416820\"><path d=\"M2.721 2.554a7.585 7.585 0 0110.725 10.725A7.585 7.585 0 012.721 2.554zm10.135.59a6.75 6.75 0 10-9.546 9.545 6.75 6.75 0 109.546-9.547zm-4.523.44V7.5h3.917v.833H8.333v3.917H7.5V8.333H3.583V7.5H7.5V3.583h.833z\" fill=\"#006ff2\" fill-rule=\"evenodd\"></path></svg></mat-icon><span class=\"action-text\">加入</span><span class=\"sr-only\"> 加購產品優惠</span></button></div></div></div>",
+      "manipulationMethod": "append"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "cx-cart-item-v2:not(:has(.cart-item[data-modelname^=\"SM-\"])):not(:has(.cart-item[data-modelname^=\"E\"]))::not(:has(.cart-item[data-modelname^=\"Z-\"])):not(:has(.cart-item[data-modelname^=\"NP\"])):not(:has(.service-item__bundle)) .cart-item__services",
+      "withTextLabel": "",
+      "replaceWithHtml": "<div onclick=\"document.location.hash='ins-sehk-recommender';\" tabindex=\"0\" class=\"service-item service-item__bundle\" style=\"background-color:#F7f7F7 !important\"><div class=\"service-item__icon\"><cx-media format=\"TokoMain\" class=\"service-item__icons is-initialized\"><img loading=\"null\" alt=\"加購產品優惠\" title=\"加購產品優惠\" src=\"https://images.samsung.com/is/content/samsung/assets/hk/offer/bundle.svg\"></cx-media></div><div class=\"service-item__details\"><h3 class=\"service-item__name service-item__name--addon\">網上商店專享 4月限時加購優惠</h3><div><div class=\"service-item__description\"><div>組合優惠低至<span style=\"color:#006ff2;\">65折</span></div></div></div></div><div class=\"service-item__actions\"><div class=\"service-item__actions\"><button class=\"action-button\" data-an-tr=\"shop-program-option\" data-an-la=\"add service:add-on\" data-di-id=\"di-id-fcf620ab-474ecee3\"><mat-icon role=\"img\" svgicon=\"icon-regular-action-add-dark\" class=\"mat-icon notranslate action-icon action-icon--add mat-icon-no-color\" aria-hidden=\"true\" data-mat-icon-type=\"svg\" data-mat-icon-name=\"icon-regular-action-add-dark\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fit=\"\" preserveAspectRatio=\"xMidYMid meet\" focusable=\"false\" data-di-res-id=\"ad575413-f56cea7f\" data-di-rand=\"1771640416820\"><path d=\"M2.721 2.554a7.585 7.585 0 0110.725 10.725A7.585 7.585 0 012.721 2.554zm10.135.59a6.75 6.75 0 10-9.546 9.545 6.75 6.75 0 109.546-9.547zm-4.523.44V7.5h3.917v.833H8.333v3.917H7.5V8.333H3.583V7.5H7.5V3.583h.833z\" fill=\"#006ff2\" fill-rule=\"evenodd\"></path></svg></mat-icon><span class=\"action-text\">加入</span><span class=\"sr-only\"> 加購產品優惠</span></button></div></div></div>",
+      "manipulationMethod": "append"
+    },
+    {
+      "hrefIncludes": "/hk/",
+      "target": "#ins-sehk-recommender #ins-sehk-title",
+      "withTextLabel": "",
+      "replaceWithHtml": "Galaxy系列 5月限時",
+      "manipulationMethod": "replace"
+    }
+  ]
+}
