@@ -1,0 +1,17 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    paths:
+      - 'sehk-smart-recommender.json'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr Cache
+        uses: egad13/purge-jsdelivr-cache@v1
+        with:
+          url: |
+            jsdelivr.net{{ github.repository }}@main/sehk-smart-recommender.json
+
