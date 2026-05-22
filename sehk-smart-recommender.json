@@ -1,113 +1,114 @@
 {
-    "replacements": [
-        {
-            "sku": "SM-L705F",
-            "discountPrice": "4,598",
-            "message": "即減$500",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "SM-L500N",
-            "discountPrice": "3,398",
-            "message": "即減$400",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "SM-L330N",
-            "discountPrice": "2,398",
-            "message": "即減$400",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "SM-L320N",
-            "discountPrice": "2,198",
-            "message": "即減$400",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "SM-R640N",
-            "discountPrice": "1,798",
-            "message": "即減$200",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "SM-R540N",
-            "discountPrice": "1,258",
-            "message": "即減$140",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "SM-R390N",
-            "discountPrice": "398",
-            "message": "即減$100*<br>*Galaxy A系列專享",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "VS70H18GZG/SP",
-            "discountPrice": "2,990",
-            "message": "即減$1,000",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "LS27FG816SCXXK",
-            "discountPrice": "7,182",
-            "message": "即減$1,798",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "LS27FG900XCXXK",
-            "discountPrice": "12,582",
-            "message": "即減$2,398",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "LS32FG816SCXXK",
-            "discountPrice": "8,082",
-            "message": "即減$1,898",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "LS49DG952SCXXK",
-            "discountPrice": "12,582",
-            "message": "即減$4,398",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "LS55CG970NCXXK",
-            "discountPrice": "23,220",
-            "message": "即減$2,580",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "LS57CG952NCXXK",
-            "discountPrice": "19,782",
-            "message": "即減$2,198",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        },
-        {
-            "sku": "LS32FM902SCXXK",
-            "discountPrice": "8,480",
-            "message": "即減$3,500",
-            "activationStart": "2026-05-15T00:00:00+08:00",
-            "activationEnd": "2026-06-30T23:59:59+08:00"
-        }
-    ],
-    "urlPattern": "/hk/",
-    "delay": 4000,
-    "currency": "HK$",
-    "messageStyle": "bundle-message"
+  "replacements":
+  [
+    {
+      "sku": "SM-L705F",
+      "discountPrice": "4,598",
+      "message": "即減$500",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-L500N",
+      "discountPrice": "3,398",
+      "message": "即減$400",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-L330N",
+      "discountPrice": "2,398",
+      "message": "即減$400",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-L320N",
+      "discountPrice": "2,198",
+      "message": "即減$400",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-R640N",
+      "discountPrice": "1,798",
+      "message": "即減$200",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-R540N",
+      "discountPrice": "1,258",
+      "message": "即減$140",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-R390N",
+      "discountPrice": "398",
+      "message": "即減$100*<br>*Galaxy A系列專享",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "VS70H18GZG/SP",
+      "discountPrice": "2,990",
+      "message": "即減$1,000",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "LS27FG816SCXXK",
+      "discountPrice": "7,182",
+      "message": "即減$1,798",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "LS27FG900XCXXK",
+      "discountPrice": "12,582",
+      "message": "即減$2,398",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "LS32FG816SCXXK",
+      "discountPrice": "8,082",
+      "message": "即減$1,898",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "LS49DG952SCXXK",
+      "discountPrice": "12,582",
+      "message": "即減$4,398",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "LS55CG970NCXXK",
+      "discountPrice": "23,220",
+      "message": "即減$2,580",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "LS57CG952NCXXK",
+      "discountPrice": "19,782",
+      "message": "即減$2,198",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    },
+    {
+      "sku": "LS32FM902SCXXK",
+      "discountPrice": "8,480",
+      "message": "即減$3,500",
+      "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-06-30T23:59:59+08:00"
+    }
+  ],
+  "urlPattern": "/hk/",
+  "delay": 4000,
+  "currency": "HK$",
+  "messageStyle": "bundle-message"
 }
