@@ -14,5 +14,5 @@ jobs:
         uses: egad13/purge-jsdelivr-cache@v1
         with:
           url: |
-            jsdelivr.net{{ github.repository }}@main/sehk-smart-recommender.json, jsdelivr.net{{ github.repository }}@main/sehk-ui-hack.json
+            https://cdn.jsdelivr.net/gh/{{ github.repository }}@main/sehk-smart-recommender.json, https://cdn.jsdelivr.net/gh/{{ github.repository }}@main/sehk-ui-hack.json
 
