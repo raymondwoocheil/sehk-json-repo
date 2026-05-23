@@ -3,7 +3,7 @@ name: Purge jsDelivr Cache
 on:
   push:
     paths:
-      - 'sehk-smart-recommender.json'
+      - 'galaxy-smart-recommender.json'
       - 'sehk-ui-hack.json'
 
 jobs:
@@ -13,4 +13,4 @@ jobs:
       - name: Purge jsDelivr Cache
         uses: egad13/purge-jsdelivr-cache@v1
         with:
-          url: "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/sehk-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@main/sehk-ui-hack.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/sehk-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/sehk-ui-hack.json"
+          url: "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/galaxy-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@main/sehk-ui-hack.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/galaxy-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/sehk-ui-hack.json"
