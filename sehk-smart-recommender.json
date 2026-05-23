@@ -4,8 +4,15 @@
     {
       "sku": "SM-L705F",
       "discountPrice": "4,598",
-      "message": "即減$500",
+      "message": "即減$500 A",
       "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-05-16T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-L705F",
+      "discountPrice": "4,598",
+      "message": "即減$500 B",
+      "activationStart": "2026-05-17T00:00:00+08:00",
       "activationEnd": "2026-06-30T23:59:59+08:00"
     },
     {
@@ -32,8 +39,15 @@
     {
       "sku": "SM-R640N",
       "discountPrice": "1,798",
-      "message": "即減$200",
+      "message": "即減$200 A",
       "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-05-16T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-R640N",
+      "discountPrice": "1,798",
+      "message": "即減$200 B",
+      "activationStart": "2026-05-17T00:00:00+08:00",
       "activationEnd": "2026-06-30T23:59:59+08:00"
     },
     {
@@ -48,6 +62,13 @@
       "discountPrice": "398",
       "message": "即減$100*<br>*Galaxy A系列專享",
       "activationStart": "2026-05-15T00:00:00+08:00",
+      "activationEnd": "2026-05-16T23:59:59+08:00"
+    },
+    {
+      "sku": "SM-R390N",
+      "discountPrice": "398",
+      "message": "即減$100*<br>*Galaxy B系列專享",
+      "activationStart": "2026-05-17T00:00:00+08:00",
       "activationEnd": "2026-06-30T23:59:59+08:00"
     },
     {
