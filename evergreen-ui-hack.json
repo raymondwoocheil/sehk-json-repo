@@ -1,12 +1,116 @@
 {
   "replacements": [
     {
-      "hrefIncludes": "/smartphones/galaxy-z-fold7/buy/",
+      "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": ".hubble-price-bar__price-total-save",
+      "withTextLabel": "",
+      "replaceWithHtml": "",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": ".s-was-price",
+      "withTextLabel": "",
+      "replaceWithHtml": "",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
       "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
       "target": ".hubble-price-bar__price-total-text > .s-hubble-highlight",
       "withTextLabel": "",
-      "replaceWithHtml": "HK$16,798",
+      "replaceWithHtml": "HK$99,999",
       "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "target": ".hubble-price-bar__tooltip-wrap > .s-hubble-highlight",
+      "withTextLabel": "",
+      "replaceWithHtml": "HK$2,777.75",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "target": ".hubble-product__summary-product-price.device-price-info",
+      "withTextLabel": "",
+      "replaceWithHtml": "HK$99,999",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "target": ".hubble-product__total-content .hubble-product__total-text strong",
+      "withTextLabel": "",
+      "replaceWithHtml": "HK$99,999",
+      "manipulationMethod": "replace"
+    },
+    {
+      "hrefIncludes": "/hk/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"device:Galaxy S26 Ultra\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>或 免息分期 每月HK$2,777.75起*</p>",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/hk/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"memory:256 GB  12 GB\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>或 免息分期 每月HK$2,777.75起*</p>",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/hk/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"memory:512 GB  12 GB\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>或 免息分期 每月HK$2,777.75起*</p>",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/hk/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"memory:1 TB 16 GB\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>或 免息分期 每月HK$2,777.75起*</p>",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/hk_en/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"device:Galaxy S26 Ultra\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>or interest-free instalments from HK$422.17 /mo*</p>",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/hk_en/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"memory:256 GB  12 GB\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>or interest-free instalments from HK$422.17 /mo*</p>",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/hk_en/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"memory:512 GB  12 GB\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>or interest-free instalments from HK$422.17 /mo*</p>",
+      "manipulationMethod": "replaceElement"
+    },
+    {
+      "hrefIncludes": "/hk_en/smartphones/galaxy-s26-ultra/buy/",
+      "elementIncludes": "",
+      "target": "input[an-la=\"memory:1 TB 16 GB\"] ~ label.hubble-pd-radio__label .s-rdo-price p",
+      "withTextLabel": "",
+      "replaceWithHtml": "<p>HK$99,999<br>or interest-free instalments from HK$422.17 /mo*</p>",
+      "manipulationMethod": "replaceElement"
     }
   ]
 }
