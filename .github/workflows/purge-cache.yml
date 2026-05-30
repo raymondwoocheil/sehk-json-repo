@@ -6,6 +6,7 @@ on:
       - 'galaxy-smart-recommender.json'
       - 'galaxy-smart-recommender-epp.json'
       - 'galaxy-smart-recommender-hack.json'
+      - 'miracle-ui-hack.json'
 
 jobs:
   purge:
@@ -14,4 +15,4 @@ jobs:
       - name: Purge jsDelivr Cache
         uses: egad13/purge-jsdelivr-cache@v1
         with:
-          url: "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/galaxy-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@main/galaxy-smart-recommender-epp.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@main/galaxy-smart-recommender-hack.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/galaxy-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/galaxy-smart-recommender-epp.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/galaxy-smart-recommender-hack.json"
+          url: "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/galaxy-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@main/galaxy-smart-recommender-epp.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@main/galaxy-smart-recommender-hack.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@main/miracle-ui-hack.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/galaxy-smart-recommender.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/galaxy-smart-recommender-epp.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/galaxy-smart-recommender-hack.json\nhttps://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/miracle-ui-hack.json"
