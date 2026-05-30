@@ -1,0 +1,12 @@
+{
+  "replacements": [
+    {
+      "hrefIncludes": "/smartphones/galaxy-z-fold7/buy/",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "target": ".hubble-price-bar__price-total-text > .s-hubble-highlight",
+      "withTextLabel": "",
+      "replaceWithHtml": "HK$16,798",
+      "manipulationMethod": "replace"
+    }
+  ]
+}
