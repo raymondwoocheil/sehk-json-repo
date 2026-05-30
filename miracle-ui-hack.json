@@ -18,7 +18,7 @@
     },
     {
       "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
-      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-S9480ZDOTGY\"]",
       "target": ".hubble-price-bar__price-total-text > .s-hubble-highlight",
       "withTextLabel": "",
       "replaceWithHtml": "HK$99,999",
@@ -26,7 +26,7 @@
     },
     {
       "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
-      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-S9480ZDOTGY\"]",
       "target": ".hubble-price-bar__tooltip-wrap > .s-hubble-highlight",
       "withTextLabel": "",
       "replaceWithHtml": "HK$2,777.75",
@@ -34,7 +34,7 @@
     },
     {
       "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
-      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-S9480ZDOTGY\"]",
       "target": ".hubble-product__summary-product-price.device-price-info",
       "withTextLabel": "",
       "replaceWithHtml": "HK$99,999",
@@ -42,7 +42,7 @@
     },
     {
       "hrefIncludes": "/smartphones/galaxy-s26-ultra/buy/",
-      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-F9660DBGTGY\"]",
+      "elementIncludes": "a.cta.cta--contained.cta--emphasis[canaddtocart][data-modelcode=\"SM-S9480ZDOTGY\"]",
       "target": ".hubble-product__total-content .hubble-product__total-text strong",
       "withTextLabel": "",
       "replaceWithHtml": "HK$99,999",
