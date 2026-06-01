@@ -1,5 +1,6 @@
 {
-  "replacements": [
+  "replacements":
+  [
     {
       "hrefIncludes": "/hk/",
       "target": "#ins-sehk-galaxy-recommender li[data-product-id=\"SM-R640NZDATGY\"] .ins-sehk-product-name",
