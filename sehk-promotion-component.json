@@ -255,6 +255,38 @@
       "validStart": "2026-05-01T00:00:00+08:00",
       "validEnd": "2026-06-30T23:59:59+08:00",
       "displayEnd": "2026-07-15T23:59:59+08:00"
+    },
+    {
+      "displayOrder": "7",
+      "id": "test",
+      "site": "/hk/",
+      "hrefInclude": "",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "快閃優惠",
+      "description": "測試Galaxy Tab 9折",
+      "voucher": "FLASH",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "tncLink": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "validStart": "2026-06-01T00:00:00+08:00",
+      "validEnd": "2026-06-10T23:59:59+08:00",
+      "displayEnd": "2026-06-15T23:59:59+08:00"
+    },
+    {
+      "displayOrder": "7",
+      "id": "test",
+      "site": "/hk_en/",
+      "hrefInclude": "",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Flash Sales",
+      "description": "Test 10% off Galaxy Tab",
+      "voucher": "FLASH",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "tncLink": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "validStart": "2026-06-01T00:00:00+08:00",
+      "validEnd": "2026-06-10T23:59:59+08:00",
+      "displayEnd": "2026-06-15T23:59:59+08:00"
     }
   ]
 }
