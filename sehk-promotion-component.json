@@ -1,5 +1,5 @@
 {
-  "replacements": [
+  "promotions": [
     {
       "displayOrder": "1",
       "id": "bocpay-tv-may-2026",
@@ -313,14 +313,14 @@
       "hrefInclude": "tvs/",
       "skuInclude": "",
       "skuExclude": "",
-      "title": "BOC Pay+ 限時專享",
-      "description": "全線電視額外92折",
-      "maxDiscount": "92折",
+      "title": "DBS 信用卡 限時專享",
+      "description": "全線電視額外95折",
+      "maxDiscount": "95折",
       "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/dbs.jpg",
-      "tncLink": "https://shop.samsung.com/hk/offer/boc-payplus-may-2026-tv-payment-offer",
-      "validStart": "2026-05-15T00:00:00+08:00",
-      "validEnd": "2026-06-20T23:59:59+08:00",
-      "displayEnd": "2026-06-30T23:59:59+08:00",
+      "tncLink": "https://shop.samsung.com/hk_en/dbs-selected-customer-may-2026-tnc",
+      "validStart": "2026-06-16T00:00:00+08:00",
+      "validEnd": "2026-06-30T23:59:59+08:00",
+      "displayEnd": "2026-07-15T23:59:59+08:00",
       "voucher": "DBS26"
     },
     {
@@ -330,14 +330,14 @@
       "hrefInclude": "tvs/",
       "skuInclude": "",
       "skuExclude": "",
-      "title": "BOC Pay+ TV offer",
-      "description": "Extra 8% off TVs",
-      "maxDiscount": "8% off",
+      "title": "DBS Credit Card",
+      "description": "Extra 5% off TVs",
+      "maxDiscount": "5% off",
       "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/dbs.jpg",
-      "tncLink": "https://shop.samsung.com/hk_en/offer/boc-payplus-may-2026-tv-payment-offer",
-      "validStart": "2026-05-15T00:00:00+08:00",
-      "validEnd": "2026-06-20T23:59:59+08:00",
-      "displayEnd": "2026-06-30T23:59:59+08:00",
+      "tncLink": "https://shop.samsung.com/hk_en/dbs-selected-customer-may-2026-tnc",
+      "validStart": "2026-06-16T00:00:00+08:00",
+      "validEnd": "2026-06-30T23:59:59+08:00",
+      "displayEnd": "2026-07-15T23:59:59+08:00",
       "voucher": "DBS26"
     },
     {
@@ -416,7 +416,7 @@
       "skuInclude": "",
       "skuExclude": "",
       "title": "Samsung Pay 專享",
-      "description": "滿額即享折扣:<br>滿HK$6,000 減HK$100<br>滿HK$3,000 減HK$50",
+      "description": "滿額即享折扣：<br>滿HK$6,000 減HK$100<br>滿HK$3,000 減HK$50",
       "maxDiscount": "",
       "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/samsungpay.jpg",
       "tncLink": "https://shop.samsung.com/hk/offer/samsung-pay-2026-terms-and-conditions",
