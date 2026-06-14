@@ -478,40 +478,6 @@
     },
     {
       "displayOrder": "4",
-      "id": "welcome-offer-2026",
-      "site": "/hk/",
-      "hrefInclude": "",
-      "skuInclude": "",
-      "skuExclude": "",
-      "title": "Samsung Shop App",
-      "description": "首購滿HK$2,000 減HK$100",
-      "maxDiscount": "",
-      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/shopapp.jpg",
-      "tncLink": "https://shop.samsung.com/hk/online-shop-welcome-offer-2026",
-      "validStart": "2026-04-01T00:00:00+08:00",
-      "validEnd": "2026-06-30T23:59:59+08:00",
-      "displayEnd": "2026-07-15T23:59:59+08:00",
-      "voucher": "GREAT2026"
-    },
-    {
-      "displayOrder": "4",
-      "id": "welcome-offer-2026",
-      "site": "/hk_en/",
-      "hrefInclude": "",
-      "skuInclude": "",
-      "skuExclude": "",
-      "title": "Samsung Shop App",
-      "description": "HK$100 off HK$2,000 first order",
-      "maxDiscount": "",
-      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/shopapp.jpg",
-      "tncLink": "https://shop.samsung.com/hk_en/online-shop-welcome-offer-2026",
-      "validStart": "2026-04-01T00:00:00+08:00",
-      "validEnd": "2026-06-30T23:59:59+08:00",
-      "displayEnd": "2026-07-15T23:59:59+08:00",
-      "voucher": "GREAT2026"
-    },
-    {
-      "displayOrder": "5",
       "id": "da-jun-2026",
       "site": "/hk/",
       "hrefInclude": "/offer",
@@ -528,7 +494,7 @@
       "voucher": "DA26"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "4",
       "id": "da-jun-2026",
       "site": "/hk_en/",
       "hrefInclude": "/offer",
@@ -545,7 +511,7 @@
       "voucher": "DA26"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "4",
       "id": "da-jun-2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -562,7 +528,7 @@
       "voucher": "DA26"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "4",
       "id": "da-jun-2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
@@ -579,7 +545,7 @@
       "voucher": "DA26"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "4",
       "id": "da-jun-2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -596,7 +562,7 @@
       "voucher": "DA26"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "4",
       "id": "da-jun-2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
@@ -611,6 +577,40 @@
       "validEnd": "2026-06-30T23:59:59+08:00",
       "displayEnd": "2026-07-15T23:59:59+08:00",
       "voucher": "DA26"
+    },
+    {
+      "displayOrder": "5",
+      "id": "welcome-offer-2026",
+      "site": "/hk/",
+      "hrefInclude": "",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Samsung Shop App",
+      "description": "首購滿HK$2,000 減HK$100",
+      "maxDiscount": "",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/shopapp.jpg",
+      "tncLink": "https://shop.samsung.com/hk/online-shop-welcome-offer-2026",
+      "validStart": "2026-04-01T00:00:00+08:00",
+      "validEnd": "2026-06-30T23:59:59+08:00",
+      "displayEnd": "2026-07-15T23:59:59+08:00",
+      "voucher": "GREAT2026"
+    },
+    {
+      "displayOrder": "5",
+      "id": "welcome-offer-2026",
+      "site": "/hk_en/",
+      "hrefInclude": "",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Samsung Shop App",
+      "description": "HK$100 off HK$2,000 first order",
+      "maxDiscount": "",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/shopapp.jpg",
+      "tncLink": "https://shop.samsung.com/hk_en/online-shop-welcome-offer-2026",
+      "validStart": "2026-04-01T00:00:00+08:00",
+      "validEnd": "2026-06-30T23:59:59+08:00",
+      "displayEnd": "2026-07-15T23:59:59+08:00",
+      "voucher": "GREAT2026"
     }
   ]
 }
