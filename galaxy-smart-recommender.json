@@ -146,6 +146,34 @@
             "message": "87折入手",
             "activationStart": "2026-07-01T00:00:00+08:00",
             "activationEnd": "2026-07-07T23:59:59+08:00"
+        },
+        {
+            "sku": "SM-X406BZAETGY",
+            "discountPrice": "3,788",
+            "message": "即減$600*<br>*Galaxy 智能手機專享",
+            "activationStart": "2026-07-01T00:00:00+08:00",
+            "activationEnd": "2026-07-31T23:59:59+08:00"
+        },
+        {
+            "sku": "SM-X400NZAETGY",
+            "discountPrice": "3,288",
+            "message": "即減$600*<br>*Galaxy 智能手機專享",
+            "activationStart": "2026-07-01T00:00:00+08:00",
+            "activationEnd": "2026-07-31T23:59:59+08:00"
+        },
+        {
+            "sku": "SM-X400NZRATGY",
+            "discountPrice": "2,588",
+            "message": "即減$600*<br>*Galaxy 智能手機專享",
+            "activationStart": "2026-07-01T00:00:00+08:00",
+            "activationEnd": "2026-07-31T23:59:59+08:00"
+        },
+        {
+            "sku": "SM-X400NZAATGY",
+            "discountPrice": "2,588",
+            "message": "即減$600*<br>*Galaxy 智能手機專享",
+            "activationStart": "2026-07-01T00:00:00+08:00",
+            "activationEnd": "2026-07-31T23:59:59+08:00"
         }
     ],
     "urlPattern": "/hk/",
