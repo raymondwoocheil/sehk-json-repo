@@ -83,7 +83,7 @@
       "validStart": "2026-07-08T00:00:00+08:00",
       "validEnd": "2026-08-31T23:59:59+08:00",
       "displayEnd": "2026-09-05T23:59:59+08:00",
-      "voucher": "SPAY2026"
+      "voucher": ""
     },
     {
       "displayOrder": "4",
@@ -100,7 +100,7 @@
       "validStart": "2026-07-08T00:00:00+08:00",
       "validEnd": "2026-08-31T23:59:59+08:00",
       "displayEnd": "2026-09-05T23:59:59+08:00",
-      "voucher": "SPAY2026"
+      "voucher": ""
     },
     {
       "displayOrder": "5",
