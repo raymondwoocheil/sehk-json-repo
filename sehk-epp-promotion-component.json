@@ -15,7 +15,7 @@
       "validStart": "2026-07-01T00:00:00+08:00",
       "validEnd": "2026-07-31T23:59:59+08:00",
       "displayEnd": "2026-07-31T23:59:59+08:00",
-      "voucher": "SUMMER2026"
+      "voucher": "SUMMER26"
     },
     {
       "displayOrder": "2",
@@ -32,7 +32,7 @@
       "validStart": "2026-07-01T00:00:00+08:00",
       "validEnd": "2026-07-31T23:59:59+08:00",
       "displayEnd": "2026-07-31T23:59:59+08:00",
-      "voucher": "SUMMER2026"
+      "voucher": "SUMMER26"
     },
     {
       "displayOrder": "4",
