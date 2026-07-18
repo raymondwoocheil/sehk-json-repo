@@ -3,7 +3,7 @@
     {
       "displayOrder": "2",
       "id": "summer-2026",
-      "site": "/hk/multistore/",
+      "site": "/hk/",
       "hrefInclude": "",
       "skuInclude": "",
       "skuExclude": "",
@@ -20,7 +20,7 @@
     {
       "displayOrder": "2",
       "id": "summer-2026",
-      "site": "/hk_en/multistore/",
+      "site": "/hk_en/",
       "hrefInclude": "",
       "skuInclude": "",
       "skuExclude": "",
@@ -37,8 +37,8 @@
     {
       "displayOrder": "4",
       "id": "bochk-jul-2026",
-      "site": "/hk/multistore/",
-      "hrefInclude": "/cart,/offer,/buy,tvs/,/washers,/refrigerators",
+      "site": "/hk/",
+      "hrefInclude": "/cart,/pd.,/buy.",
       "skuInclude": "",
       "skuExclude": "",
       "title": "中銀信用卡客戶專享",
@@ -54,8 +54,8 @@
     {
       "displayOrder": "4",
       "id": "bochk-jul-2026",
-      "site": "/hk_en/multistore/",
-      "hrefInclude": "/cart,/offer,/buy,tvs/,/washers,/refrigerators",
+      "site": "/hk_en/",
+      "hrefInclude": "/cart,/pd.,/buy.",
       "skuInclude": "",
       "skuExclude": "",
       "title": "BOC(HK) Credit Card exclusive",
@@ -71,7 +71,7 @@
     {
       "displayOrder": "3",
       "id": "samung-pay-2026",
-      "site": "/hk/multistore/",
+      "site": "/hk/",
       "hrefInclude": "/pd.,/buy.",
       "skuInclude": "",
       "skuExclude": "",
@@ -88,7 +88,7 @@
     {
       "displayOrder": "3",
       "id": "samung-pay-2026",
-      "site": "/hk_en/multistore/",
+      "site": "/hk_en/",
       "hrefInclude": "/pd.,/buy.",
       "skuInclude": "",
       "skuExclude": "",
@@ -105,7 +105,7 @@
     {
       "displayOrder": "3",
       "id": "samung-pay-2026",
-      "site": "/hk/multistore/",
+      "site": "/hk/",
       "hrefInclude": "/cart",
       "skuInclude": "",
       "skuExclude": "",
@@ -122,7 +122,7 @@
     {
       "displayOrder": "3",
       "id": "samung-pay-2026",
-      "site": "/hk_en/multistore/",
+      "site": "/hk_en/",
       "hrefInclude": "/cart",
       "skuInclude": "",
       "skuExclude": "",
