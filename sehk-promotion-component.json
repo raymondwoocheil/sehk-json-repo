@@ -137,7 +137,7 @@
       "voucher": "A17PROMO"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "12",
       "id": "samung-pay-2026",
       "site": "/hk/",
       "hrefInclude": "/offer,/buy,tvs/,/washers,/refrigerators",
@@ -154,7 +154,7 @@
       "voucher": "SPAY2026"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "12",
       "id": "samung-pay-2026",
       "site": "/hk_en/",
       "hrefInclude": "/offer,/buy,tvs/,/washers,/refrigerators",
@@ -171,7 +171,7 @@
       "voucher": "SPAY2026"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "12",
       "id": "samung-pay-2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -188,7 +188,7 @@
       "voucher": "SPAY2026"
     },
     {
-      "displayOrder": "5",
+      "displayOrder": "12",
       "id": "samung-pay-2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
