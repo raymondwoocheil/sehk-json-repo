@@ -71,8 +71,8 @@
     {
       "displayOrder": "2",
       "id": "galaxy-book-aug-2026",
-      "site": "",
-      "hrefInclude": "",
+      "site": "/hk/",
+      "hrefInclude": "/offer,/computers/galaxy-book/galaxy-book",
       "skuInclude": "",
       "skuExclude": "",
       "title": "Galaxy Book 開學限時優惠",
@@ -88,8 +88,8 @@
     {
       "displayOrder": "2",
       "id": "galaxy-book-aug-2026",
-      "site": "",
-      "hrefInclude": "",
+      "site": "/hk_en/",
+      "hrefInclude": "/offer,/computers/galaxy-book/galaxy-book",
       "skuInclude": "",
       "skuExclude": "",
       "title": "Galaxy Book Back-to-School Offer",
@@ -105,9 +105,9 @@
     {
       "displayOrder": "2",
       "id": "galaxy-book-aug-2026",
-      "site": "",
-      "hrefInclude": "",
-      "skuInclude": "",
+      "site": "/hk/",
+      "hrefInclude": "/cart",
+      "skuInclude": "NP7,NP9",
       "skuExclude": "",
       "title": "Galaxy Book 開學限時優惠",
       "description": "指定型號享額外HK$1,200折扣",
@@ -122,9 +122,9 @@
     {
       "displayOrder": "2",
       "id": "galaxy-book-aug-2026",
-      "site": "",
-      "hrefInclude": "",
-      "skuInclude": "",
+      "site": "/hk_en/",
+      "hrefInclude": "/cart",
+      "skuInclude": "NP7,NP9",
       "skuExclude": "",
       "title": "Galaxy Book Back-to-School Offer",
       "description": "HK$1,200 on selected models",
@@ -341,7 +341,7 @@
       "voucher": "HELLO2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk/",
       "hrefInclude": "/offer",
@@ -358,7 +358,7 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk_en/",
       "hrefInclude": "/offer",
@@ -375,7 +375,7 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch9-",
@@ -392,7 +392,7 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk_en/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch9-",
@@ -409,7 +409,7 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch-ultra2",
@@ -426,13 +426,13 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk_en/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch-ultra2",
       "skuInclude": "",
       "skuExclude": "",
-      "title": "全新 Galaxy Watch Ultra2 限時預訂優惠",
+      "title": "New Galaxy Watch9 Pre-order Offer",
       "description": "Get 15% off<br>Free 45W Fast Charger with retractable cable",
       "maxDiscount": "",
       "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
@@ -443,7 +443,7 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -460,7 +460,7 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
@@ -477,7 +477,7 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -494,13 +494,13 @@
       "voucher": "WATCH2026"
     },
     {
-      "displayOrder": "1",
+      "displayOrder": "3",
       "id": "galaxy-watch-2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
       "skuInclude": "SM-L715F",
       "skuExclude": "",
-      "title": "全新 Galaxy Watch Ultra2 限時預訂優惠",
+      "title": "New Galaxy Watch9 Pre-order Offer",
       "description": "Get 15% off<br>Free 45W Fast Charger with retractable cable",
       "maxDiscount": "",
       "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
@@ -509,6 +509,74 @@
       "validEnd": "2026-08-06T23:59:59+08:00",
       "displayEnd": "2026-08-06T23:59:59+08:00",
       "voucher": "WATCH2026"
+    },
+    {
+      "displayOrder": "1",
+      "id": "flip8-trade-in-aug-2026",
+      "site": "/hk/",
+      "hrefInclude": "/offer,/galaxy-z-flip8",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Z Flip8 以舊換新加碼",
+      "description": "再加碼 HK$1,000額外 Trade-in回贈",
+      "maxDiscount": "",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "tncLink": "",
+      "validStart": "2026-08-01T21:00:00+08:00",
+      "validEnd": "2026-08-06T23:59:59+08:00",
+      "displayEnd": "2026-08-06T23:59:59+08:00",
+      "voucher": "FLIPTR"
+    },
+    {
+      "displayOrder": "1",
+      "id": "flip8-trade-in-aug-2026",
+      "site": "/hk_en/",
+      "hrefInclude": "/offer,/galaxy-z-flip8",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Z Flip8 Trade-in",
+      "description": "Additional HK$1,000 Extra Trade-in Rebate",
+      "maxDiscount": "",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "tncLink": "",
+      "validStart": "2026-08-01T21:00:00+08:00",
+      "validEnd": "2026-08-06T23:59:59+08:00",
+      "displayEnd": "2026-08-06T23:59:59+08:00",
+      "voucher": "FLIPTR"
+    },
+    {
+      "displayOrder": "1",
+      "id": "flip8-trade-in-aug-2026",
+      "site": "/hk/",
+      "hrefInclude": "/cart",
+      "skuInclude": "SM-F7760",
+      "skuExclude": "",
+      "title": "Galaxy Z Flip8 以舊換新加碼",
+      "description": "先加舊機 Trade-in <br>即加碼賞HK$1,000額外回贈券",
+      "maxDiscount": "",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "tncLink": "",
+      "validStart": "2026-08-01T21:00:00+08:00",
+      "validEnd": "2026-08-06T23:59:59+08:00",
+      "displayEnd": "2026-08-06T23:59:59+08:00",
+      "voucher": "FLIPTR"
+    },
+    {
+      "displayOrder": "1",
+      "id": "flip8-trade-in-aug-2026",
+      "site": "/hk_en/",
+      "hrefInclude": "/cart",
+      "skuInclude": "SM-F7760",
+      "skuExclude": "",
+      "title": "Galaxy Z Flip8 Trade-in",
+      "description": "Add a trade-in then apply code to<br>get additional HK$1,000 Rebate Voucher",
+      "maxDiscount": "",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/flash.jpg",
+      "tncLink": "",
+      "validStart": "2026-08-01T21:00:00+08:00",
+      "validEnd": "2026-08-06T23:59:59+08:00",
+      "displayEnd": "2026-08-06T23:59:59+08:00",
+      "voucher": "FLIPTR"
     }
   ]
 }
