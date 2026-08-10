@@ -137,14 +137,14 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "2",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/offer",
       "skuInclude": "",
       "skuExclude": "",
-      "title": "Galaxy Watch | Buds 開學限時優惠",
-      "description": "Galaxy Watch Ultra2 即享85折<br>Galaxy Watch9 即享8折<br>Galaxy Buds4 Pro 即減HK$400<br>Galaxy Buds4 即減HK$300",
+      "title": "Galaxy Watch 開學限時優惠",
+      "description": "Galaxy Watch Ultra2 即享85折<br>Galaxy Watch9 即享8折",
       "maxDiscount": "HK$825折扣",
       "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
       "tncLink": "https://shop.samsung.com/hk/back-to-school-Aug-2026-offer-tnc",
@@ -154,14 +154,14 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "2",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/offer",
       "skuInclude": "",
       "skuExclude": "",
-      "title": "Galaxy Watch | Buds Back-to-School Offer",
-      "description": "15% off Galaxy Watch Ultra2<br>20% off Galaxy Watch9<br>HK$400 off Galaxy Buds4 Pro<br>HK$300 off Galaxy Buds4",
+      "title": "Galaxy Watch Back-to-School Offer",
+      "description": "15% off Galaxy Watch Ultra2<br>20% off Galaxy Watch9",
       "maxDiscount": "HK$825 off",
       "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
       "tncLink": "https://shop.samsung.com/hk_en/back-to-school-Aug-2026-offer-tnc",
@@ -171,7 +171,41 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
+      "id": "galaxy-wearable-bts2026",
+      "site": "/hk/",
+      "hrefInclude": "/offer",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Buds 開學限時優惠",
+      "description": "Galaxy Buds4 Pro 即減HK$400<br>Galaxy Buds4 即減HK$300",
+      "maxDiscount": "HK$825折扣",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "4",
+      "id": "galaxy-wearable-bts2026",
+      "site": "/hk_en/",
+      "hrefInclude": "/offer",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Buds Back-to-School Offer",
+      "description": "HK$400 off Galaxy Buds4 Pro<br>HK$300 off Galaxy Buds4",
+      "maxDiscount": "HK$825 off",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk_en/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch-ultra2",
@@ -188,7 +222,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch-ultra2",
@@ -205,7 +239,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch9-",
@@ -222,7 +256,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/watches/galaxy-watch/galaxy-watch9-",
@@ -239,7 +273,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/galaxy-buds4-pro/buy",
@@ -256,7 +290,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/galaxy-buds4-pro/buy",
@@ -273,7 +307,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -290,7 +324,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
@@ -307,7 +341,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -324,7 +358,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
@@ -341,7 +375,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -358,7 +392,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
@@ -375,7 +409,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -392,7 +426,7 @@
       "voucher": "BTS2026"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "4",
       "id": "galaxy-wearable-bts2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
@@ -410,6 +444,108 @@
     },
     {
       "displayOrder": "3",
+      "id": "galaxy-tab-bts2026",
+      "site": "/hk/",
+      "hrefInclude": "/offer",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Tab 開學限時優惠",
+      "description": "Galaxy Tab S11 Ultra 減HK$1,200<br>Galaxy Tab S11 減HK$800",
+      "maxDiscount": "HK$825折扣",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "3",
+      "id": "galaxy-tab-bts2026",
+      "site": "/hk_en/",
+      "hrefInclude": "/offer",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Tab Back-to-School Offer",
+      "description": "HK$1,200 off Galaxy Tab S11 Ultra<br>HK$800 off Galaxy Tab S11",
+      "maxDiscount": "HK$825 off",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk_en/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "3",
+      "id": "galaxy-tab-bts2026",
+      "site": "/hk/",
+      "hrefInclude": "/galaxy-tab-s11/buy",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Tab 開學限時優惠",
+      "description": "Galaxy Tab S11 Ultra 減HK$1,200<br>Galaxy Tab S11 減HK$800",
+      "maxDiscount": "HK$1,200折扣",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "3",
+      "id": "galaxy-tab-bts2026",
+      "site": "/hk_en/",
+      "hrefInclude": "/galaxy-tab-s11/buy",
+      "skuInclude": "",
+      "skuExclude": "",
+      "title": "Galaxy Tab Back-to-School Offer",
+      "description": "HK$1,200 off Galaxy Tab S11 Ultra<br>HK$800 off Galaxy Tab S11",
+      "maxDiscount": "HK$1,200 off",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk_en/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "3",
+      "id": "galaxy-tab-bts2026",
+      "site": "/hk/",
+      "hrefInclude": "/cart",
+      "skuInclude": "SM-X930N,SM-X936B,SM-X730N,SM-X736B",
+      "skuExclude": "",
+      "title": "Galaxy Tab 開學限時優惠",
+      "description": "Galaxy Tab S11 Ultra 減HK$1,200<br>Galaxy Tab S11 減HK$800",
+      "maxDiscount": "HK$1,200折扣",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "3",
+      "id": "galaxy-tab-bts2026",
+      "site": "/hk_en/",
+      "hrefInclude": "/cart",
+      "skuInclude": "SM-X930N,SM-X936B,SM-X730N,SM-X736B",
+      "skuExclude": "",
+      "title": "Galaxy Tab Back-to-School Offer",
+      "description": "HK$1,200 off Galaxy Tab S11 Ultra<br>HK$800 off Galaxy Tab S11",
+      "maxDiscount": "HK$1,200 off",
+      "logo": "https://cdn.jsdelivr.net/gh/raymondwoocheil/sehk-json-repo@main/img/new.jpg",
+      "tncLink": "https://shop.samsung.com/hk_en/back-to-school-Aug-2026-offer-tnc",
+      "validStart": "2026-08-07T12:00:00+08:00",
+      "validEnd": "2026-08-31T23:59:59+08:00",
+      "displayEnd": "2026-08-31T23:59:59+08:00",
+      "voucher": "BTS2026"
+    },
+    {
+      "displayOrder": "5",
       "id": "a17-july-2026",
       "site": "/hk/",
       "hrefInclude": "/offer,/galaxy-a17-5g",
@@ -426,7 +562,7 @@
       "voucher": "A17PROMO"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "5",
       "id": "a17-july-2026",
       "site": "/hk_en/",
       "hrefInclude": "/offer,/galaxy-a17-5g",
@@ -443,7 +579,7 @@
       "voucher": "A17PROMO"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "5",
       "id": "a17-july-2026",
       "site": "/hk/",
       "hrefInclude": "/cart",
@@ -460,7 +596,7 @@
       "voucher": "A17PROMO"
     },
     {
-      "displayOrder": "3",
+      "displayOrder": "5",
       "id": "a17-july-2026",
       "site": "/hk_en/",
       "hrefInclude": "/cart",
